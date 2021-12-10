@@ -23,6 +23,9 @@ Análise dos Códigos utilizados para realizar o Desafio da Mesa da temporada Ca
   
   Isso ira se repetir até o robô ompletar o percurso programado.
 
-* Curvas de X graus:
+* Alinha na Linha:
+
+ Este my block nos proporciona á realizar um alinhamento nas linhas guias por meio dos sensores de cor.
+
 
 # Runs
